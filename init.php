@@ -1,9 +1,9 @@
 <?php
 
-	$db = "androiddb";
-	$user = "root";
-	$pass = "";
-	$server = "localhost";
+	$db = "sql6145823";
+	$user = "sql6145823";
+	$pass = "4kx7btvx5V";
+	$server = "sql6.freemysqlhosting.net";
 
 	$conn = mysqli_connect($server, $user, $pass, $db);
 
